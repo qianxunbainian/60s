@@ -8,4 +8,4 @@ export const config = {
   encodingParamName: process.env.ENCODING_PARAM_NAME || 'encoding',
 }
 
-export const COMMON_MSG = `获取成功，官网 ${config.blog}，开发者微信 ${config.wechat`}`
+export const COMMON_MSG = `获取成功，官网 ${config.blog}，开发者微信 ${config.wechat}`
